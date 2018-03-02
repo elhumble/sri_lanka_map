@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518546610106.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2B96C200",
+    "lastKnownWriteTime" : 4294967305,
+    "last_content_update" : 1518546610106,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F3822E84",
+        "caption" : "world.ggmap",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=world.ggmap&cache_key=F3822E84",
+        "displayedObservations" : "90537",
+        "environment" : "",
+        "object" : "world.ggmap",
+        "preview" : "0",
+        "totalObservations" : "90537",
+        "variables" : "7"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
